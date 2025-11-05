@@ -52,17 +52,33 @@ Para modelar los datos y utilizarlos en este proyecto se presento un **esquema e
 
 A continuación se presentan los diagramas de estrella para cada tabla de hechos:
 **Diagrama de `fact_nps_response`:**
-!(./assets/fact_nps_response.png)
+
+![nps](./assets/fact_nps_response.png)
+
 **Diagrama de `fact_payment`:**
-!(./assets/fact_payment.png)
+
+![pay](./assets/fact_payment.png)
+
 **Diagrama de `fact_sales_order_item`:**
-!(./assets/fact_sales_order_item.png)
+
+![order_item](./assets/fact_sales_order_item.png)
+
 **Diagrama de `fact_sales_order`:**
-!(./assets/fact_sales_order.png)
+
+
+![order](./assets/fact_sales_order.png)
+
+
 **Diagrama de `fact_shipment`:**
-!(./assets/fact_shipment.png)
+
+
+![shipment](./assets/fact_shipment.png)
+
+
 **Diagrama de `fact_web_sessions`:**
-!(./assets/fact_web_sessions.png)
+
+
+![web](./assets/fact_web_sessions.png)
 
 
 
