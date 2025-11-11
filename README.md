@@ -8,7 +8,7 @@ Este repositorio contiene el pipeline de ETL y la fuente de datos para el dashbo
 
 El dashboard interactivo con los KPIs finales se puede consultar en el siguiente enlace:
 
-* **Enlace al Dashboard:** `[c:\Users\bruno\OneDrive\Documentos\LCD_2DO\2DO_CUATRIMESTRE\MARKT_Y_NEG_DIGITALES\TP.final.pbix]`
+* **Enlace al Dashboard:** https://app.powerbi.com/groups/me/reports/1502039e-b9d4-4738-8a29-5a112996c657?ctid=3e0513d6-68fa-416e-8de1-6c5cdc319ffa&pbi_source=linkShare
 
 ---
 
