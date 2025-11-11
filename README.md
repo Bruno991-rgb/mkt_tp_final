@@ -14,12 +14,17 @@ El dashboard interactivo con los KPIs finales se puede consultar en el siguiente
 
 ## Dashboard
  KPI 
- Total Ventas: Este indicador muestra la suma total de ventas
-Usuarios Activos: Indica cuantos usuarios estan activos
-Ticket Promedio: Este ticekt muestra el promedio de las ventas, se obtiene mediante de la suma total de ventas / la cantidad de ventas
+ Total Ventas: Este indicador muestra la suma total de ventas.
+
+Usuarios Activos: Indica cuantos usuarios estan activos.
+
+Ticket Promedio: Este ticekt muestra el promedio de las ventas, se obtiene mediante de la suma total de ventas / la cantidad de ventas.
+
 GRAFICOS
-Ventas por provincia: Grafico de tortas el cual muestra la cantidad vendida por provincia
-Ranking ventas por producto (mensual): Grafico de barras por mes ek cual muestra la suma total de ventas por producto
+
+Ventas por provincia: Grafico de tortas el cual muestra la cantidad vendida por provincia.
+
+Ranking ventas por producto (mensual): Grafico de barras por mes ek cual muestra la suma total de ventas por producto.
 
 
 ## 🚀 Guía Rápida de Ejecución
